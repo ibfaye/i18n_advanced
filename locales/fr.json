@@ -1,0 +1,24 @@
+{
+  "landing": {
+    "start_text": "Commencez en modifiant",
+    "start_link": "app/page.tsx",
+    "by": "Par",
+    "docs": "Docs",
+    "docs_desc": "Trouvez des informations approfondies sur les fonctionnalités et l'API de Next.js.",
+    "learn": "Apprendre",
+    "learn_desc": "Apprenez Next.js dans un cours interactif avec des quiz !",
+    "template": "Modèles",
+    "template_desc": "Explorez le terrain de jeu Next.js 13.",
+    "deploy": "Déployer",
+    "deploy_desc": "Déployez instantanément votre site Next.js sur une URL partageable avec Vercel.",
+    "href": "/"
+  },
+  "main": {
+    "home": "Accueil",
+    "about": "À propos",
+    "title": "Internationalisation",
+    "desc": "Next.js vous permet de configurer la navigation et le rendu du contenu pour prendre en charge plusieurs langues. Rendre votre site adaptatif à différentes régions inclut du contenu traduit (localisation) et des routes internationalisées.",
+    "home_href": "accueil",
+    "about_href": "propos"
+  }
+}
